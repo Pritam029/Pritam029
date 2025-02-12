@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
 ---
-
+<div align="center">
+    <img src="https://github.com/Pritam029/Pritam029/blob/main/Pritam.gif" alt="logo">
+</div>
 
 <h1 align="center">Hi 👋, I'm Pritam Garai</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
