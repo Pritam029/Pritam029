@@ -1,4 +1,4 @@
-# Hello I'm Afzal ([@Afzal-04](https://github.com/SkAfzal-04))
+# Hello I'm Pritam ([@Pritam029](https://github.com/Pritam029))
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
@@ -9,8 +9,6 @@
 
 <h1 align="center">Hi 👋, I'm Pritam Garai</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-#<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/3-25-2018/GpNSNw.gif">
 
 - 🌱 I’m currently learning **Frameworks, Courses**
 
@@ -41,8 +39,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skafzal-04&show_icons=true&locale=en&layout=compact" alt="skafzal-04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam029&show_icons=true&locale=en&layout=compact" alt="pritam029" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skafzal-04&show_icons=true&locale=en" alt="skafzal-04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam029&show_icons=true&locale=en" alt="pritam029" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skafzal-04&" alt="skafzal-04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam029&" alt="pritam029" /></p>
